@@ -11,4 +11,4 @@
 
 5修改部分图片命名
 
-# 1.png(https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
+![1.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
