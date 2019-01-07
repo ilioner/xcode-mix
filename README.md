@@ -16,7 +16,7 @@
 
 5修改部分图片命名
 
-![1.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
+
 
 
 
@@ -38,9 +38,13 @@
 
 方便来自window系统的工程
 
+![2.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/2.png)
+
 
 
 1.0版本:
 
 一键操作，支持普通的app，u3d工程
+
+![1.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
 
