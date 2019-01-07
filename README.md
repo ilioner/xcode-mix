@@ -48,3 +48,11 @@
 
 ![1.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
 
+
+
+工程文件转码工具
+
+因为很多工程文件是从window 转移而来，存在编码问题，所以提供一份转码工具
+
+![3.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/3.png)
+
